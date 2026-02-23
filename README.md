@@ -181,4 +181,4 @@ Delta Modulated Bit Stream:
 <img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/81f3e30a-3222-4315-862a-4ac24db3b787" />
 <img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/7b2a7246-f9e5-4693-b490-f691af1e0c1d" />
 # Results
-The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
+The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles
